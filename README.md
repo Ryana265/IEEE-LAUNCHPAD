@@ -34,7 +34,7 @@ Checkout my linkedln profile : https://www.linkedin.com/in/raina-raj-198761211/
 
 Would you like to include any specific details or adjustments to this plan?
 
-#### Thoughts on Kerala's Tech Ecosystem: 
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has immense potential to excel in the Technology Startup Ecosystem. With its high literacy rate and a growing number of engineering graduates, the state has a strong talent pool. To thrive, Kerala needs to focus on building better infrastructure, providing funding opportunities for startups, and fostering a culture of innovation and collaboration. By leveraging its unique strengths and addressing these areas, Kerala can become a leading tech hub in India.
 
@@ -42,4 +42,5 @@ Would you like to include any specific details or adjustments to this plan?
 #### Highly Visible Technical Content:
 
 - I have authored a journal article detailing our FarmSage project, focusing on its innovative use of AI and IoT in agriculture. This work was recognized with the Best Paper Presentation Award at the SPICE International Conference held by MBITS, Kothamangalam. The paper highlights our research findings and contributions to advancing agricultural technology through data-driven solutions.
+
 
